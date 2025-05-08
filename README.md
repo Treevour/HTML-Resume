@@ -1,47 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trevor Tsang - Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .h2 {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .contact-info {
-            margin-bottom: 10px;
-        }
-        .experience, .education {
-            margin-left: 20px;
-        }
-        /* Added for the download link */
-        .download-link {
-            margin-top: 20px;
-            text-align: center;
-        }
-        .download-link a {
-            background-color: #4CAF50; /* Green */
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 16px;
-        }
-        .download-link a:hover {
-            background-color: #367c39; /* Darker green */
-        }
-    </style>
 </head>
 <body>
     <header>
